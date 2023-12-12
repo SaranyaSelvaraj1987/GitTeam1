@@ -17,6 +17,10 @@ public abstract class ITDept implements Employee{
 		System.out.println("Tasks are assigned from ITDet");
 		
 	}
+	public void try1()
+	{
+		System.out.println("Try for Git");
+	}
 	
 	
 
