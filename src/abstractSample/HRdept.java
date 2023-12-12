@@ -15,4 +15,8 @@ public class HRdept extends ITDept {
 		System.out.println("Salary is from HRDept");
 	}
 
+	public void try1()
+	{
+		System.out.println("Try for Git");
+	}
 }
